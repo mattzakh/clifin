@@ -3,6 +3,8 @@
 
 #### Matthew Zakharia Hadimaja
 
+Note: the complete codes and analysis can be found on `codes.ipynb`.
+
 In this analysis, we analysed clinical and financial data of patients with a certain condition. The goal is to predict the cost charged to a patient using the patient's clinical data. Before the analysis, we cleaned the data to make our analysis easier and joined the four tables (`bill_amount`, `bill_id`, `clinical_data`, and `demographics`) into one dataframe `df`.
 
     <class 'pandas.core.frame.DataFrame'>
